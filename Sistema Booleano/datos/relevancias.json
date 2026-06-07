@@ -1,0 +1,86 @@
+{
+  "directores españoles de terror": {
+    "consulta_booleana": "espanol AND terror",
+    "relevantes": ["4.txt", "9.txt"]
+  },
+  "directores estadounidenses de ciencia ficción": {
+    "consulta_booleana": "estadounidense AND ciencia",
+    "relevantes": ["17.txt", "21.txt", "29.txt", "30.txt"]
+  },
+  "directores europeos premiados con Óscar": {
+    "consulta_booleana": "oscar AND director",
+    "relevantes": ["1.txt", "5.txt", "16.txt", "37.txt", "38.txt", "39.txt",
+                   "51.txt", "52.txt", "53.txt", "54.txt", "55.txt", "56.txt",
+                   "57.txt", "58.txt", "59.txt", "60.txt", "61.txt", "62.txt",
+                   "63.txt", "64.txt", "65.txt", "66.txt", "67.txt", "68.txt",
+                   "69.txt", "70.txt"]
+  },
+  "directores japoneses de animación": {
+    "consulta_booleana": "japones AND animacion",
+    "relevantes": ["51.txt", "52.txt", "53.txt", "54.txt"]
+  },
+  "directores coreanos de thriller": {
+    "consulta_booleana": "coreano OR surcoreano",
+    "relevantes": ["55.txt", "56.txt", "57.txt"]
+  },
+  "directores españoles de cine social": {
+    "consulta_booleana": "espanol AND social",
+    "relevantes": ["6.txt", "14.txt"]
+  },
+  "directores estadounidenses de terror clásico": {
+    "consulta_booleana": "terror AND clasico",
+    "relevantes": ["59.txt", "60.txt", "61.txt"]
+  },
+  "directores italianos del neorrealismo": {
+    "consulta_booleana": "italiano AND neorrealismo",
+    "relevantes": ["48.txt"]
+  },
+  "directores franceses de la nouvelle vague": {
+    "consulta_booleana": "frances AND nouvelle",
+    "relevantes": ["46.txt", "47.txt"]
+  },
+  "directores de animación japonesa contemporánea": {
+    "consulta_booleana": "anime AND animacion",
+    "relevantes": ["53.txt", "54.txt"]
+  },
+  "directores de ciencia ficción modernos": {
+    "consulta_booleana": "ciencia AND ficcion",
+    "relevantes": ["21.txt", "29.txt", "30.txt", "63.txt"]
+  },
+  "directores de terror contemporáneo": {
+    "consulta_booleana": "terror AND director",
+    "relevantes": ["61.txt", "62.txt", "63.txt", "64.txt"]
+  },
+  "directores latinoamericanos premiados": {
+    "consulta_booleana": "mexicano OR latinoamericano OR brasileno",
+    "relevantes": ["37.txt", "38.txt", "39.txt"]
+  },
+  "directores británicos de drama": {
+    "consulta_booleana": "britanico AND drama",
+    "relevantes": ["45.txt"]
+  },
+  "directores estadounidenses de comedia": {
+    "consulta_booleana": "comedia AND humor",
+    "relevantes": ["25.txt", "33.txt"]
+  },
+  "directores europeos de cine experimental": {
+    "consulta_booleana": "experimental AND europeo",
+    "relevantes": ["41.txt"]
+  },
+  "directores de animación del Studio Ghibli": {
+    "consulta_booleana": "ghibli AND animacion",
+    "relevantes": ["51.txt", "52.txt"]
+  },
+  "directores de cine noir": {
+    "consulta_booleana": "negro AND cine",
+    "relevantes": ["23.txt"]
+  },
+  "directores de cine independiente estadounidense": {
+    "consulta_booleana": "independiente AND cine",
+    "relevantes": ["33.txt", "34.txt", "65.txt"]
+  },
+  "directores de cine fantástico": {
+    "consulta_booleana": "fantasia AND director",
+    "relevantes": ["36.txt", "61.txt"]
+  }
+}

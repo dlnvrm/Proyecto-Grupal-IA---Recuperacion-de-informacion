@@ -1,0 +1,66 @@
+{
+  "directores españoles de terror": {
+    "relevantes": ["4.txt", "9.txt"]
+  },
+  "directores estadounidenses de ciencia ficción": {
+    "relevantes": ["17.txt", "21.txt", "29.txt", "30.txt"]
+  },
+  "directores europeos premiados con Óscar": {
+    "relevantes": ["1.txt", "5.txt", "16.txt", "37.txt", "38.txt", "39.txt",
+                   "51.txt", "52.txt", "53.txt", "54.txt", "55.txt", "56.txt",
+                   "57.txt", "58.txt", "59.txt", "60.txt", "61.txt", "62.txt",
+                   "63.txt", "64.txt", "65.txt", "66.txt", "67.txt", "68.txt",
+                   "69.txt", "70.txt"]
+  },
+  "directores japoneses de animación": {
+    "relevantes": ["51.txt", "52.txt", "53.txt", "54.txt"]
+  },
+  "directores coreanos de thriller": {
+    "relevantes": ["55.txt", "56.txt", "57.txt"]
+  },
+  "directores españoles de cine social": {
+    "relevantes": ["6.txt", "14.txt"]
+  },
+  "directores estadounidenses de terror clásico": {
+    "relevantes": ["59.txt", "60.txt", "61.txt"]
+  },
+  "directores italianos del neorrealismo": {
+    "relevantes": ["48.txt"]
+  },
+  "directores franceses de la nouvelle vague": {
+    "relevantes": ["46.txt", "47.txt"]
+  },
+  "directores de animación japonesa contemporánea": {
+    "relevantes": ["53.txt", "54.txt"]
+  },
+  "directores de ciencia ficción modernos": {
+    "relevantes": ["21.txt", "29.txt", "30.txt", "63.txt"]
+  },
+  "directores de terror contemporáneo": {
+    "relevantes": ["61.txt", "62.txt", "63.txt", "64.txt"]
+  },
+  "directores latinoamericanos premiados": {
+    "relevantes": ["37.txt", "38.txt", "39.txt"]
+  },
+  "directores británicos de drama": {
+    "relevantes": ["45.txt"]
+  },
+  "directores estadounidenses de comedia": {
+    "relevantes": ["25.txt", "33.txt"]
+  },
+  "directores europeos de cine experimental": {
+    "relevantes": ["41.txt"]
+  },
+  "directores de animación del Studio Ghibli": {
+    "relevantes": ["51.txt", "52.txt"]
+  },
+  "directores de cine noir": {
+    "relevantes": ["23.txt"]
+  },
+  "directores de cine independiente estadounidense": {
+    "relevantes": ["33.txt", "34.txt", "65.txt"]
+  },
+  "directores de cine fantástico": {
+    "relevantes": ["36.txt", "61.txt"]
+  }
+}

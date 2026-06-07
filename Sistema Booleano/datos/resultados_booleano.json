@@ -1,0 +1,423 @@
+{
+  "directores españoles de terror": {
+    "consulta_booleana": "espanol AND terror",
+    "recuperados": [
+      "59.txt",
+      "4.txt",
+      "61.txt",
+      "56.txt",
+      "36.txt",
+      "28.txt",
+      "26.txt",
+      "8.txt",
+      "30.txt",
+      "18.txt"
+    ],
+    "verdaderos_positivos": 1,
+    "precision": 0.1,
+    "recall": 0.5
+  },
+  "directores estadounidenses de ciencia ficción": {
+    "consulta_booleana": "estadounidense AND ciencia",
+    "recuperados": [
+      "59.txt",
+      "3.txt",
+      "34.txt",
+      "16.txt",
+      "48.txt",
+      "27.txt",
+      "26.txt",
+      "18.txt",
+      "25.txt",
+      "50.txt",
+      "19.txt",
+      "32.txt",
+      "22.txt"
+    ],
+    "verdaderos_positivos": 0,
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  "directores europeos premiados con Óscar": {
+    "consulta_booleana": "oscar AND director",
+    "recuperados": [
+      "38.txt",
+      "37.txt",
+      "63.txt",
+      "17.txt",
+      "33.txt",
+      "24.txt",
+      "64.txt",
+      "31.txt",
+      "49.txt",
+      "35.txt",
+      "55.txt",
+      "29.txt",
+      "1.txt",
+      "34.txt",
+      "21.txt",
+      "51.txt",
+      "50.txt",
+      "10.txt",
+      "16.txt",
+      "30.txt",
+      "42.txt",
+      "19.txt",
+      "5.txt",
+      "32.txt",
+      "39.txt",
+      "68.txt",
+      "3.txt",
+      "27.txt",
+      "18.txt",
+      "69.txt",
+      "48.txt",
+      "20.txt",
+      "47.txt",
+      "36.txt",
+      "41.txt",
+      "26.txt",
+      "28.txt",
+      "7.txt",
+      "52.txt",
+      "46.txt",
+      "59.txt",
+      "66.txt",
+      "14.txt",
+      "40.txt",
+      "15.txt",
+      "67.txt",
+      "61.txt",
+      "22.txt",
+      "2.txt",
+      "23.txt",
+      "25.txt"
+    ],
+    "verdaderos_positivos": 17,
+    "precision": 0.3333,
+    "recall": 0.6538
+  },
+  "directores japoneses de animación": {
+    "consulta_booleana": "japones AND animacion",
+    "recuperados": [
+      "52.txt",
+      "51.txt",
+      "53.txt",
+      "54.txt",
+      "27.txt"
+    ],
+    "verdaderos_positivos": 4,
+    "precision": 0.8,
+    "recall": 1.0
+  },
+  "directores coreanos de thriller": {
+    "consulta_booleana": "coreano OR surcoreano",
+    "recuperados": [
+      "57.txt",
+      "55.txt",
+      "56.txt",
+      "25.txt"
+    ],
+    "verdaderos_positivos": 3,
+    "precision": 0.75,
+    "recall": 1.0
+  },
+  "directores españoles de cine social": {
+    "consulta_booleana": "espanol AND social",
+    "recuperados": [
+      "6.txt",
+      "1.txt",
+      "14.txt",
+      "9.txt",
+      "57.txt",
+      "7.txt",
+      "12.txt",
+      "61.txt",
+      "59.txt",
+      "47.txt",
+      "2.txt",
+      "26.txt",
+      "18.txt",
+      "25.txt",
+      "30.txt",
+      "22.txt"
+    ],
+    "verdaderos_positivos": 2,
+    "precision": 0.125,
+    "recall": 1.0
+  },
+  "directores estadounidenses de terror clásico": {
+    "consulta_booleana": "terror AND clasico",
+    "recuperados": [
+      "59.txt",
+      "28.txt",
+      "8.txt",
+      "27.txt",
+      "30.txt",
+      "32.txt"
+    ],
+    "verdaderos_positivos": 1,
+    "precision": 0.1667,
+    "recall": 0.3333
+  },
+  "directores italianos del neorrealismo": {
+    "consulta_booleana": "italiano AND neorrealismo",
+    "recuperados": [
+      "48.txt",
+      "47.txt",
+      "50.txt"
+    ],
+    "verdaderos_positivos": 1,
+    "precision": 0.3333,
+    "recall": 1.0
+  },
+  "directores franceses de la nouvelle vague": {
+    "consulta_booleana": "frances AND nouvelle",
+    "recuperados": [
+      "46.txt",
+      "47.txt",
+      "17.txt",
+      "22.txt"
+    ],
+    "verdaderos_positivos": 2,
+    "precision": 0.5,
+    "recall": 1.0
+  },
+  "directores de animación japonesa contemporánea": {
+    "consulta_booleana": "anime AND animacion",
+    "recuperados": [
+      "51.txt",
+      "54.txt",
+      "53.txt"
+    ],
+    "verdaderos_positivos": 2,
+    "precision": 0.6667,
+    "recall": 1.0
+  },
+  "directores de ciencia ficción modernos": {
+    "consulta_booleana": "ciencia AND ficcion",
+    "recuperados": [
+      "29.txt",
+      "28.txt",
+      "59.txt",
+      "63.txt",
+      "37.txt",
+      "3.txt",
+      "26.txt",
+      "55.txt",
+      "16.txt",
+      "56.txt",
+      "4.txt",
+      "48.txt",
+      "34.txt",
+      "62.txt",
+      "18.txt",
+      "19.txt",
+      "47.txt",
+      "27.txt",
+      "25.txt",
+      "50.txt",
+      "32.txt",
+      "22.txt"
+    ],
+    "verdaderos_positivos": 2,
+    "precision": 0.0909,
+    "recall": 0.5
+  },
+  "directores de terror contemporáneo": {
+    "consulta_booleana": "terror AND director",
+    "recuperados": [
+      "62.txt",
+      "59.txt",
+      "60.txt",
+      "61.txt",
+      "69.txt",
+      "65.txt",
+      "58.txt",
+      "28.txt",
+      "36.txt",
+      "56.txt",
+      "4.txt",
+      "64.txt",
+      "26.txt",
+      "19.txt",
+      "34.txt",
+      "31.txt",
+      "8.txt",
+      "27.txt",
+      "49.txt",
+      "20.txt",
+      "30.txt",
+      "32.txt",
+      "18.txt",
+      "17.txt"
+    ],
+    "verdaderos_positivos": 3,
+    "precision": 0.125,
+    "recall": 0.75
+  },
+  "directores latinoamericanos premiados": {
+    "consulta_booleana": "mexicano OR latinoamericano OR brasileno",
+    "recuperados": [
+      "37.txt",
+      "39.txt",
+      "38.txt",
+      "2.txt",
+      "29.txt",
+      "36.txt",
+      "49.txt",
+      "20.txt",
+      "30.txt",
+      "32.txt"
+    ],
+    "verdaderos_positivos": 3,
+    "precision": 0.3,
+    "recall": 1.0
+  },
+  "directores británicos de drama": {
+    "consulta_booleana": "britanico AND drama",
+    "recuperados": [
+      "28.txt",
+      "22.txt",
+      "12.txt",
+      "3.txt",
+      "17.txt",
+      "30.txt",
+      "20.txt",
+      "32.txt"
+    ],
+    "verdaderos_positivos": 0,
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  "directores estadounidenses de comedia": {
+    "consulta_booleana": "comedia AND humor",
+    "recuperados": [
+      "25.txt",
+      "55.txt",
+      "24.txt",
+      "66.txt",
+      "33.txt",
+      "1.txt",
+      "4.txt",
+      "49.txt",
+      "48.txt",
+      "20.txt",
+      "59.txt",
+      "17.txt",
+      "26.txt",
+      "22.txt",
+      "27.txt",
+      "30.txt",
+      "50.txt",
+      "18.txt",
+      "32.txt"
+    ],
+    "verdaderos_positivos": 2,
+    "precision": 0.1053,
+    "recall": 1.0
+  },
+  "directores europeos de cine experimental": {
+    "consulta_booleana": "experimental AND europeo",
+    "recuperados": [],
+    "verdaderos_positivos": 0,
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  "directores de animación del Studio Ghibli": {
+    "consulta_booleana": "ghibli AND animacion",
+    "recuperados": [
+      "51.txt",
+      "52.txt"
+    ],
+    "verdaderos_positivos": 2,
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "directores de cine noir": {
+    "consulta_booleana": "negro AND cine",
+    "recuperados": [
+      "47.txt",
+      "26.txt",
+      "3.txt",
+      "55.txt",
+      "27.txt",
+      "5.txt",
+      "38.txt",
+      "17.txt",
+      "49.txt",
+      "41.txt",
+      "32.txt",
+      "24.txt",
+      "23.txt",
+      "61.txt",
+      "56.txt",
+      "16.txt",
+      "20.txt",
+      "4.txt",
+      "18.txt",
+      "59.txt",
+      "30.txt",
+      "28.txt",
+      "31.txt",
+      "53.txt",
+      "8.txt",
+      "1.txt",
+      "25.txt",
+      "62.txt",
+      "19.txt",
+      "22.txt"
+    ],
+    "verdaderos_positivos": 1,
+    "precision": 0.0333,
+    "recall": 1.0
+  },
+  "directores de cine independiente estadounidense": {
+    "consulta_booleana": "independiente AND cine",
+    "recuperados": [
+      "21.txt",
+      "14.txt",
+      "15.txt",
+      "45.txt",
+      "61.txt",
+      "51.txt",
+      "20.txt",
+      "3.txt",
+      "33.txt",
+      "69.txt",
+      "17.txt",
+      "16.txt",
+      "62.txt",
+      "19.txt",
+      "26.txt",
+      "22.txt",
+      "25.txt",
+      "30.txt"
+    ],
+    "verdaderos_positivos": 1,
+    "precision": 0.0556,
+    "recall": 0.3333
+  },
+  "directores de cine fantástico": {
+    "consulta_booleana": "fantasia AND director",
+    "recuperados": [
+      "36.txt",
+      "54.txt",
+      "52.txt",
+      "56.txt",
+      "26.txt",
+      "15.txt",
+      "28.txt",
+      "7.txt",
+      "18.txt",
+      "30.txt"
+    ],
+    "verdaderos_positivos": 1,
+    "precision": 0.1,
+    "recall": 0.5
+  },
+  "_promedios": {
+    "precision_media": 0.2793,
+    "recall_medio": 0.6785
+  }
+}
